@@ -1,0 +1,9 @@
+,No continuity plan,With continuity plan
+mean_loss_m,1.58,0.272
+p50_loss_m,1.288,0.172
+p95_loss_m,4.198,1.041
+p99_loss_m,6.681,2.193
+mean_duration_h,4.692,1.536
+p95_duration_h,10.631,5.238
+prob_exceed_time_tolerance,0.458,0.079
+prob_exceed_loss_tolerance,0.127,0.004
